@@ -36,6 +36,12 @@ To run the code, follow these steps:
 - AdaBoost
 - Google Earth Pro
 
+## Google Drive Link for Images
+-Best route Images:-https://drive.google.com/drive/folders/1w_48ZhSkBVcWSvisdE38B5oVOvIT-SHW?usp=sharing
+-Worst route Images:-https://drive.google.com/drive/folders/1JzS18-bX30dxajRYXQDaCfbvC45Sc9kW?usp=sharing
+-Augmented Images:- https://drive.google.com/drive/folders/1DosW-ZSkZOcxKA9idoeuDVOB01Axjm4n?usp=sharing
+-Other files:- https://drive.google.com/drive/folders/1-nK8unWyKawJsMt1CK-WNQ0OI8umgW3E?usp=sharing
+
 ## Contact
 
 For any queries, please contact:
