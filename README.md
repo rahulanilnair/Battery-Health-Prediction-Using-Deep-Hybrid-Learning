@@ -1,6 +1,6 @@
 # Battery Health Prediction using Deep Hybrid Learning
 
-This repository contains the code and data for the research paper "Battery Health Prediction using Deep Hybrid Learning" by Rahul Anil Nair, Dev Karan Suresh, and Rajeswari D.
+This repository contains the code and data for the research paper "Battery Health Prediction using Deep Hybrid Learning" by Rahul Anil Nair, Dev Karan Suresh, and Dr.Rajeswari D.
 
 ## Abstract
 
